@@ -1,4 +1,4 @@
 
 <h1>Coming Soon</h1>
-<span>Our Website is Under Corporate.</span>
+<span>Our Website is Under Corporate Construction!</span>
 								
